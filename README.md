@@ -74,5 +74,4 @@ Supported application statuses:
   "applicationDate": "2026-09-11",
   "jobType": "Full-time",
   "jobUrl": "https://careers.google.com/",
-  "notes": "Applied through careers portal"
 }
